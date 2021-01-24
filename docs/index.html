@@ -13,6 +13,8 @@
     title="docsify-darklight-theme"
     type="text/css"
   />
+  <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
+  <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
   
 </head>
 <body>
@@ -58,6 +60,11 @@
         tabComments: true,      // default
         tabHeadings: true       // default
       },
+      toc: {
+        scope: '.markdown-section',
+        headings: 'h1, h2, h3, h4, h5, h6',
+         title: '目录',
+       },
       darklightTheme: {
             siteFont : "PT Sans",
             defaultTheme : 'dark',
@@ -108,6 +115,7 @@
     type="text/javascript">
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
 
 </body>
 </html>
