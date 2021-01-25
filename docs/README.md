@@ -4,11 +4,13 @@
 
 ## 关于本网站
 
-本网站来自**青fly班**同学辛勤汇总而得
+本网站来自**青fly班**<small>（18届8班）</small>同学辛勤汇总而得
 
 由 **十八** 使用 **Markdown** 形式，通过 [docsify](https://docsify.js.org/#/zh-cn/) 制作，部署在 [GitHub Pages](https://pages.github.com/) 上
 
 仅供学习参考
+
+*~~也算是十八留给初中最好的礼物了~~*
 
 ## 内容来源
 
