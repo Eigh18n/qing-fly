@@ -6,7 +6,11 @@
 
 本网站来自**青fly班**<small>（18届8班）</small>同学辛勤汇总而得
 
-由 **十八** 使用 **Markdown** 形式，通过 [docsify](https://docsify.js.org/#/zh-cn/) 制作，部署在 [GitHub Pages](https://pages.github.com/) 上
+由 **十八** 使用 **Markdown** 形式，通过 [docsify](https://docsify.js.org/#/zh-cn/) 制作，部署在 [Gtiee Pages](https://gitee.com/help/articles/4136) 上
+
+部分页面使用 [Mermaid](https://mermaid-js.github.io/mermaid/#/) 图表工具制作
+
+特别感谢来自 [Voline](https://valine.js.org/) 的评论功能和 [LeanCloud](https://console.leancloud.app/) 的云端数据库
 
 仅供学习参考
 
