@@ -20,6 +20,11 @@
 <body>
   <div id="app">加载中♨️Loading...</br><i><small>首次加载时间较长，请耐心等待</small></i></div>
   <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
+  <script>
     var mermaidnum = 0;
     
     window.$docsify = {
@@ -192,6 +197,5 @@
   </script>
 //Gittalk（wdnmd八班谁有GitHub账号啊淦）
 -->
-  <div id='comments'></div>
 </body>
 </html>
