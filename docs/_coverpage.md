@@ -8,4 +8,5 @@
 - 范围广，资源全面 
 - **青fly班**诚心精选
 
+[Gitee源码](https://gitee.com/eighteen18/qing-fly/)
 [打开资料](README)
