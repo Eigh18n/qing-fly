@@ -22,6 +22,10 @@
 
 !>**如有侵权,请联系删除**
 
+本文档使用了[CC-BY-SA-4.0](https://gitee.com/eighteen18/qing-fly/edit/master/LICENSE)协议
+
+请勿擅自**署名**或**商用**
+
 ## 使用教程
 
 - 强烈建议使用 **PC**`（电脑端）`或 **iPad** 浏览此文档
