@@ -18,7 +18,7 @@
 
 ## 内容来源
 
-本文档使用了[CC-BY-SA-4.0](https://gitee.com/eighteen18/qing-fly/edit/master/LICENSE)协议
+本文档使用了[CC-BY-SA-4.0](https://gitee.com/eighteen18/qing-fly/blob/master/LICENSE)协议
 
 请勿擅自**署名**或**商用**
 
